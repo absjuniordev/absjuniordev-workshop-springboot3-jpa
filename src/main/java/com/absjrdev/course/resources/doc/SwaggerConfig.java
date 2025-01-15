@@ -11,7 +11,7 @@ public class SwaggerConfig {
 	    public OpenAPI customOpenAPI() {
 	        return new OpenAPI()
 	                .info(new Info()
-	                    .title("ABS")
+	                    .title("Shoop Easy")
 	                    .version("1.0.0")
 	                    .description("E-comerce")
 	                    .contact(new io.swagger.v3.oas.models.info.Contact()
