@@ -22,6 +22,14 @@ Este projeto é uma API desenvolvida em **Java 17**, com o intuito de servir com
 
 A documentação completa da API está disponível através do Swagger, que pode ser acessado ao iniciar a aplicação.
 
+## 🖼️ Imagens 
+
+ <img src="img/user.png" alt="Imagem 4" width="1000">
+ <img src="img/category.png" alt="Imagem 1" width="1000">
+ <img src="img/order.png" alt="Imagem 3" width="1000">
+ <img src="img/product.png" alt="Imagem 4" width="1000">
+ <img src="img/product.png" alt="Imagem 4" width="1000">
+
 ## Diagrama de Classes
 
 Abaixo, temos o diagrama de classes que representa a estrutura do banco de dados e os relacionamentos entre as entidades.
