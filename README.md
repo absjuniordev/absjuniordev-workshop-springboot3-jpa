@@ -115,27 +115,7 @@ classDiagram
    mvn spring-boot:run
    ```
 
-3. Acesse a documentação Swagger na URL: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-
-### Configuração do Banco de Dados:
-
-Para produção, configure o **PostgreSQL** no arquivo `application.properties` ou `application.yml`.
-
-```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/ecommerce_db
-spring.datasource.username=usuario
-spring.datasource.password=senha
-spring.jpa.hibernate.ddl-auto=update
-```
-
-Para testes, o **H2** será utilizado por padrão, sem necessidade de configuração adicional.
-
-### Deploy no Railway:
-
-1. Faça login no Railway.
-2. Crie um novo projeto e conecte seu repositório GitHub.
-3. Siga as instruções para configurar o banco de dados PostgreSQL no Railway.
-4. O deploy será feito automaticamente e você poderá acessar sua aplicação via a URL fornecida pelo Railway.
+3. Acesse a documentação Swagger na URL: [http://localhost:8081/swagger-ui.html](http://localhost:8081/swagger-ui.html)
 
 ## Contribuições
 
