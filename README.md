@@ -115,7 +115,7 @@ classDiagram
    mvn spring-boot:run
    ```
 
-3. Acesse a documentação Swagger na URL: [http://localhost:8080/swagger-ui.html](http://localhost:8081/swagger-ui.html)
+3. Acesse a documentação Swagger na URL: [http://localhost:8081/swagger-ui.html](http://localhost:8081/swagger-ui.html)
 
 ## Contribuições
 
